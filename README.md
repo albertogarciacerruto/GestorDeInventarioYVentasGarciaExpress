@@ -17,7 +17,7 @@ _Es requerido tener instalado Composer, PHP, MySQL o en su defecto un entorno co
 _Ejecuta el siguiente comando para instalar las dependencias_
 
 ```
-php artisan install
+composer install
 ```
 
 _Cambiar la configuracion de acceso a la base de datos en el .env por las credenciales de tu servidor localhost o de tu administrador de base de dtaos._
